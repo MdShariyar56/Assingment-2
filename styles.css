@@ -1,0 +1,11 @@
+@media (max-width: 767px) {
+  nav div ul {
+    flex-direction: column;
+  }
+  nav div ul li {
+    margin-right: 0;
+  }
+  nav div ul li:not(:last-child) {
+    display: none;
+  }
+}
