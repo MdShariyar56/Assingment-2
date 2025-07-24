@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 @media (max-width: 576px) {
@@ -18,7 +18,7 @@ body {
 
   
   section {
-    flex-direction: column-reverse !important; /* ইমেজ আগে, টেক্সট পরে */
+    flex-direction: column-reverse !important; 
     text-align: center;
     
   }
