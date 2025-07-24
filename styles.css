@@ -4,6 +4,10 @@ body {
   /* overflow: hidden; */
 }
 
+.Join-Section{
+  
+}
+
 @media (max-width: 576px) {
   nav div ul {
     flex-direction: column;
